@@ -1,10 +1,4 @@
-<table>
-  <tr>
-    <td width="250">
-      <img src="https://i.pinimg.com/736x/b0/79/b7/b079b7e499321b7cee8e5c84cce2320c.jpg" width="250"/>
-    </td>
-    <td>
-      <div style="background-color: rgba(0, 0, 0, 0.3); padding: 15px; border-radius: 10px;">
+
         
 ### ✨ Oi, eu sou a Nina!
 
