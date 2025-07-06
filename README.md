@@ -1,40 +1,26 @@
-<h2 align="left">Hi 👋! I'm Tainan, an Engineering student passionate about Data and Automation, from Brazil.</h2>
+# 👋 Oi, eu sou a Tainan!
 
-###
+> "Em um mundo de dados, estou sempre à procura do próximo insight que vai iluminar o caminho. ✨"
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+## 🚀 Sobre mim
+- 🎓 Engenheira Mecânica apaixonada por dados e automação
+- 📊 Construindo dashboards e análises para decisões mais inteligentes
+- 💡 Buscando a liberdade geográfica e financeira através da tecnologia
+- 🌱 Em constante evolução: aprendendo e experimentando todos os dias
 
-###
+---
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NinaPezzi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="90" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=NinaPezzi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="130" alt="stats graph"  />
-</div>
+## 🛠️ Tecnologias que utilizo
+| 💾 | 📊 | 🐍 | 📈 | 🚀 |
+|----|----|----|----|----|
+| ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) |
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## 📊 GitHub Stats
+![Tainan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tainanpezzi&show_icons=true&theme=tokyonight)
 
-###
+---
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/NinaPezzi/NinaPezzi/output/snake.svg" alt="Snake animation" />
-
-###
+## ✨ Conecte-se comigo
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tainan-pezzi)
